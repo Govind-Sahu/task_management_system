@@ -1,8 +1,0 @@
-uploads = []
-generated = []
-
-[[outputs]]
-id = "4dAjkpYnltzubCYOhnHI1"
-uri = "file://project.tar.gz"
-type = "unspecified"
-title = "Task Management System - Full Project"
